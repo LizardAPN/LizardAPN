@@ -35,8 +35,8 @@ I am an ML Engineer with a background in algorithmic problem-solving and economi
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LizardAPN&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=2196F3&text_color=C9D1D9&icon_color=2196F3&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LizardAPN&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2196F3&text_color=C9D1D9" />
+  <img height="180em" src="https://github-readme-stats-seven-lake-87.vercel.app/api?username=LizardAPN&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=2196F3&text_color=C9D1D9&icon_color=2196F3&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-seven-lake-87.vercel.app/api/top-langs/?username=LizardAPN&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2196F3&text_color=C9D1D9" />
 </div>
 
 ---
