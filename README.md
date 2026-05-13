@@ -43,10 +43,10 @@ I am an ML Engineer with a background in algorithmic problem-solving and economi
 
 ### 📬 Connect with Me
 <p align="left">
-  <a href="https://t.me/Mid_Lizard_dle" target="_blank">
+  <a href="https://t.me/Senior_Lizard" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-  <a href="mailto:rofly9@list.ru">
+  <a href="mailto:lizardapn_work@bk.ru">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
